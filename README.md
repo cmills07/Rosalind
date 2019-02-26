@@ -1,2 +1,2 @@
 # Rosalind
-Bioinformatics problems loged in Rosalind 
+Bioinformatics problems logged in Rosalind 
